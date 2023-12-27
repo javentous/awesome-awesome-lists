@@ -1,4 +1,6 @@
 # awesome-awesome-lists
+NOTE: ok better way to do this is the same method that the [fontjoy visualizer](https://fontjoy.com/projector/) uses
+
 resources for different things that have a bunch of resources for personal use mostly, hoping to find the similarities, will probably implement different views (mirror the repo as a CSV or table) that is interactive and tagged so a simple keyword search can aid in finding stuff (e.g. bar chart for number of icons for the icon collections, or number of categories) and ideally the views (again think dashboard, will probably use quarto or R Shiny, possibly Julia since it looks cool) are *comperable* in some fashion (which is, at some level of abstraction...)
 
 oh I'ld like to mess with different tagging systems (dewey, loc, cross listing with a '.' and 'x' and '()' along with nesting in intereting ways would be fun
